@@ -1,4 +1,4 @@
-# Export Google Search Console Data For All Verified Properties
+# Export GSC Data For All Properties Using GSC API
 
 Ever wanted to export Google Search Console data for all of your verified properties? With this Python script you can do it without manually exporting anything!
 ## How it works

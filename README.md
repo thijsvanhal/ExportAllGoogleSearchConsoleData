@@ -9,13 +9,13 @@ Using a for loop we make a call to the API and export data for each verified pro
 Simple script but does the job!
 ## How can you use this script?
 1. Download the script or clone this project
-  Go to [Google Cloud Console](https://console.cloud.google.com/)
-  Make a new project
-  Enable the Google Search Console API
-  Make an OAuth consent screen
-  Create Credentials > OAuth client ID
-  Save credentials as .json
-  Rename file to client_secrets.json and put it in the same folder as the script
+  a. Go to [Google Cloud Console](https://console.cloud.google.com/)
+  b. Make a new project
+  c. Enable the Google Search Console API
+  d. Make an OAuth consent screen
+  e. Create Credentials > OAuth client ID
+  f. Save credentials as .json
+  g. Rename file to client_secrets.json and put it in the same folder as the script
 2. Run the script!
 3. Analyze your data 🙂
 
